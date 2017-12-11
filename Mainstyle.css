@@ -1,0 +1,60 @@
+
+body{margin:10px auto;
+}
+
+#container {width:80%;height:100%;margin:0px auto;        
+}
+
+#header {
+border:0px solid #69C;
+height:52px;
+background:white;
+} 
+
+#content {
+height:500px;
+border-top:1px solid #ddd;
+border-bottom:0px solid #ddd;
+border-left:0px solid #ddd;
+border-right:0px solid #ddd£»
+} 
+
+.title
+{
+	font-family:Microsoft YaHei UI;
+	font-size:35px;
+	font-weight:bolder;
+	color:#4ea7db;
+}
+
+.td_title
+{
+	font-family:Microsoft YaHei UI;
+	font-size:20px;
+	font-weight:bolder;
+	color:#4ea7db;
+	height:30px;
+	width:25%;
+	text-align:left
+}
+
+.td_content_rght
+{
+	font-family:Microsoft YaHei UI;
+	font-size:15px;
+	font-weight:bolder;
+	color:#4ea7db;
+	height:15px;
+	width:25%;
+	text-align:center
+}
+.td_content_left
+{
+	font-family:Microsoft YaHei UI;
+	font-size:15px;
+	font-weight:bolder;
+	color:#4ea7db;
+	height:25px;
+	width:75%; 
+	text-align:left
+}
